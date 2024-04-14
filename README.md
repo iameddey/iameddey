@@ -4,7 +4,7 @@
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
-  <img alt="spring" src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="spring" src="https://img.shields.io/badge/spring-#6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img alt="springboot" src="https://img.shields.io/badge/springboot-#6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/Mysql-#4479A1?style=flat-square&logo=Mysql&logoColor=white" />
 </p>
