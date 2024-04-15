@@ -4,9 +4,8 @@
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
-  <img alt="spring" src="https://img.shields.io/badge/spring-#6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img alt="springboot" src="https://img.shields.io/badge/springboot-#6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img alt="Mysql" src="https://img.shields.io/badge/Mysql-#4479A1?style=flat-square&logo=Mysql&logoColor=white" />
+  <img alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />s
+
 </p>
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
