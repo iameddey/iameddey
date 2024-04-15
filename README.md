@@ -14,21 +14,14 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ## 👯 Communities
-* 동의대학교 응용소프트웨어공학과 재학
-* Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes.
-* Microsoft Student Learn Ambassador (MSP/MLSA).
-* Deeplearning.ai event ambassador.
-* Management Team Lead at Voice Of Code.
-* CSE Club at CPU.
-* CamPus Ambassador at Coding Ninja and Humanity Welfare Council.
-* Internshala Student Partner-16.
+* 🏫 동의대학교 응용소프트웨어공학과
+
 ## ⚡ Technologies
-Talk to me about:
-- Front-end development using **HTML, Vue.js, CSS, Bootstrap**.
-- Backend development using **Spring**.
+저에 대해서 얘기하자면:
+- 프론트엔드는 **HTML, Vue.js, CSS, Bootstrap**을 사용합니다.
+- 백엔드는 현재 **Spring**을 이용하여 개발 하고있습니다.
 - Making for **Relational Database Management Systems**.
-- Robust full-stack system design implementation.
-- Solving Data structure and algorithm questions in **Java**.
+- 주력으로 **Java**를 이용하여 알고리즘이나 문제상황들을 해결하고있습니다.
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [Harsh Blog](https://medium.com/harsh-kumar-khatri).
