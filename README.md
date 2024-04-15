@@ -24,7 +24,7 @@
 - 주력으로 **Java**를 이용하여 알고리즘이나 문제상황들을 해결하고있습니다.
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
+- 🎯 Portfolio site: [Portfolio](https://www.notion.so/34189fc57bae4c43ae82957c23402f29?pvs=4).
 - ⚡ Fun fact: Internet users blink less than usual.
 
 ![Moozi's github stats](https://github-readme-stats.vercel.app/api?username=MooziKim&hide=["issues"]&show_icons=true)
