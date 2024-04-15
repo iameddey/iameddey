@@ -4,7 +4,7 @@
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
-  <img alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />s
+  <img alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 
 </p>
 
