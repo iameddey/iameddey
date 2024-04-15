@@ -17,9 +17,9 @@
 * 🏫 동의대학교 응용소프트웨어공학과
 
 ## ⚡ Technologies
-저에 대해서 얘기하자면:
+저는 현재
 - 프론트엔드는 **HTML, Vue.js, CSS, Bootstrap**을 사용합니다.
-- 백엔드는 현재 **Spring**을 이용하여 개발 하고있습니다.
+- 백엔드는 **Spring**을 이용하여 개발 하고있습니다.
 - Making for **Relational Database Management Systems**.
 - 주력으로 **Java**를 이용하여 알고리즘이나 문제상황들을 해결하고있습니다.
 ## Hello World!! 🤔
