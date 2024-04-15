@@ -17,7 +17,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ## 👯 Communities
-* DSC Lead.
+* 동의대학교 응용소프트웨어공학과 재학
 * Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes.
 * Microsoft Student Learn Ambassador (MSP/MLSA).
 * Deeplearning.ai event ambassador.
@@ -27,14 +27,11 @@
 * Internshala Student Partner-16.
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **HTML, Javascript, CSS, Bootstrap**.
-- Backend development using **Flask, Django**.
+- Front-end development using **HTML, Vue.js, CSS, Bootstrap**.
+- Backend development using **Spring**.
 - Making for **Relational Database Management Systems**.
 - Robust full-stack system design implementation.
-- Desktop application development using **Flutter** (Still learning).
-- Mobile application development using **Flutter and Kotlin**.
-- Creating scalable cloud architecture using **AWS Cloud**.
-- Solving Data structure and algorithm questions in **Java and Python**.
+- Solving Data structure and algorithm questions in **Java**.
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [Harsh Blog](https://medium.com/harsh-kumar-khatri).
