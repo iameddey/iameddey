@@ -12,13 +12,13 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />  
 </div>
 
-## 👯 소개글
+## 👯 소개글!!
 * 🏫 동의대학교 응용소프트웨어공학과 (2019.02 ~ )
 * 백엔드는 **Spring**을 이용하여 개발 하고있습니다.
 * Making for **Relational Database Management Systems**.
 * **Java**를 이용하여 알고리즘이나 문제상황들을 해결하고있습니다.
 
-## 🎯 Hello World!!
+## 🎯 포트폴리오!!
 - 🎯 Portfolio site: [Portfolio](https://www.notion.so/34189fc57bae4c43ae82957c23402f29?pvs=4).
 
 ![Moozi's github stats](https://github-readme-stats.vercel.app/api?username=MooziKim&hide=["issues"]&show_icons=true)
