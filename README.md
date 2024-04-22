@@ -12,7 +12,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />  
 </div>
 
-## 👯 introduction
+## 👯 소개글
 * 🏫 동의대학교 응용소프트웨어공학과 (2019.02 ~ )
 * 백엔드는 **Spring**을 이용하여 개발 하고있습니다.
 * Making for **Relational Database Management Systems**.
