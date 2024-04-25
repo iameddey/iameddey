@@ -46,6 +46,7 @@
 </p>
 
 ## 🎯 포트폴리오!!
-- 🎯 Portfolio site: [Portfolio](https://www.notion.so/34189fc57bae4c43ae82957c23402f29?pvs=4).
-
+<p>
+  작성중
+</p>
 ![Moozi's github stats](https://github-readme-stats.vercel.app/api?username=MooziKim&hide=["issues"]&show_icons=true)
