@@ -9,7 +9,19 @@
 * 백엔드는 **Spring**을 이용하여 개발 하고있습니다.
 * Making for **Relational Database Management Systems**.
 * **Java**를 이용하여 알고리즘이나 문제상황들을 해결하고있습니다.
-<a href="https://solved.ac/20193111"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=20193111&theme=dark"/></a>
+<div>
+  <a href="https://solved.ac/20193111"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=20193111&theme=dark"/></a>
+  <h3>소개글</h3>
+  <ul>
+    <li> 🏫 부산대학교 IT응용공학과 재학</li>
+    <li> <img src="https://img.shields.io/badge/Seoul-000000?style=flat-square&logo=42&logoColor=FFFFFF"/>  42Seoul 9기 Cadet </li>
+    <li> 🦁 PNU 멋쟁이사자처럼 12기 B/E 운영진</li>
+  </ul>
+  <br>
+  <br>
+  <br>
+  <br>
+</div>
 <br><br><br><br><br><br><br>
 ## 🛠️ 스킬
 ###### language
