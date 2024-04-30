@@ -13,7 +13,7 @@
     <li> Making for <b>Relational Database Management Systems</b>.</li>
     <li> <b>Java</b>를 이용하여 알고리즘이나 문제상황들을 해결하고있습니다.</li>
   </ul>
-  <br>
+  <br><br>
 </div>
 
 ## 🛠️ 스킬
