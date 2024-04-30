@@ -9,7 +9,8 @@
 * 백엔드는 **Spring**을 이용하여 개발 하고있습니다.
 * Making for **Relational Database Management Systems**.
 * **Java**를 이용하여 알고리즘이나 문제상황들을 해결하고있습니다.
-<a><img align="right" src="https://github-readme-stats.vercel.app/api?username=20193111&show_icons=true&theme=radical"/></a>
+* 
+<a><src="https://github-readme-stats.vercel.app/api?username=20193111&show_icons=true&theme=radical"/></a>
 
 ## 🛠️ 스킬
 ###### language
