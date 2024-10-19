@@ -9,7 +9,7 @@
   <a href="https://solved.ac/20193111"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=20193111&theme=dark"/></a>
   <ul>
     <li> 🏫 동의대학교 <b>응용소프트웨어공학과</b> (2019.02 ~ )</li>
-    <li> 백엔드는 <b>Spring</b>을 이용하여 개발 하고있습니다.</li>
+    <li> IOS는 <b>Swift5</b>을 이용하여 개발 하고있습니다.</li>
     <li> Making for <b>Relational Database Management Systems</b>.</li>
     <li> <b>Java</b>를 이용하여 알고리즘이나 문제상황들을 해결하고있습니다.</li>
   </ul>
