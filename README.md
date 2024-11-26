@@ -17,7 +17,7 @@
 ## 🛠️ 스킬
 ###### language
 <p>
-  <img src="https://img.shields.io/badge/swift-#F05138C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   
 </p>
 
