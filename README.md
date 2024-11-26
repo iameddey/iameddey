@@ -23,15 +23,11 @@
 
 ###### framework
 <p>
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" /> 
-  <img alt="Springboot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-  <img alt="SpringSecurity" src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>
-  <img alt="SpringDataJPA" src="https://img.shields.io/badge/SpringDataJPA-6DB33F?style=flat-square&logo=SpringDataJPA&logoColor=white"/>
+ 
 </p>
 
 ###### infra
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </p>
 
 ###### OS
@@ -42,14 +38,10 @@
 
 ###### etc
 <p>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+ 
 </p>
 
 ## 🎯 포트폴리오!!
 <p>
   작성중
 </p>
-
-![Moozi's github stats](https://github-readme-stats.vercel.app/api?username=MooziKim&hide=["issues"]&show_icons=true)
