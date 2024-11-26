@@ -1,6 +1,6 @@
 ## 👋 인사말
 <p align='left'>
-  안녕하세요! <b>안정적인 서버</b>를 구축하여 <b>사용자의 편리함</b>을 이끄는 <b>IOS Developer</b>를 꿈꾸는 김재윤입니다.
+  안녕하세요! <b>창의적인 앱을</b>를 구축하여 <b>사용자의 편리함</b>을 이끄는 <b>IOS Developer</b>를 꿈꾸는 김재윤입니다.
 </p>
 <br/>
 
@@ -9,9 +9,7 @@
   <a href="https://solved.ac/20193111"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=20193111&theme=dark"/></a>
   <ul>
     <li> 🏫 동의대학교 <b>응용소프트웨어공학과</b> (2019.02 ~ )</li>
-    <li> IOS는 <b>Swift5</b>을 이용하여 개발 하고있습니다.</li>
-    <li> Making for <b>Relational Database Management Systems</b>.</li>
-    <li> <b>Java</b>를 이용하여 알고리즘이나 문제상황들을 해결하고있습니다.</li>
+    <li> IOS는 <b>SwiftUI</b>를 이용하여 개발 하고있습니다.</li>
   </ul>
   <br><br>
 </div>
@@ -19,10 +17,8 @@
 ## 🛠️ 스킬
 ###### language
 <p>
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/swift-#F05138C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  
 </p>
 
 ###### framework
