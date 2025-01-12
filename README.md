@@ -6,7 +6,6 @@
 
 ## 👯 소개글!!
 <div>
-  <a href="https://solved.ac/20193111"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=20193111&theme=dark"/></a>
   <ul>
     <li> 🏫 동의대학교 <b>응용소프트웨어공학과</b> (2019.02 ~ )</li>
     <li> IOS는 <b>SwiftUI</b>를 이용하여 개발 하고있습니다.</li>
@@ -18,12 +17,12 @@
 ###### language
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-  
 </p>
 
 ###### framework
 <p>
- 
+  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UIKIT-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
 
 ###### infra
