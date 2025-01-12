@@ -32,7 +32,7 @@
 
 ###### OS
 <p>
-  <img src="https://img.shields.io/badge/MAC-000000?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=&logoColor=white">
   <img alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
