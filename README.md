@@ -8,39 +8,11 @@
 <div>
   <ul>
     <li> 🏫 동의대학교 <b>응용소프트웨어공학과</b> (2019.02 ~ 2025.02)</li>
+    <li> 🍎 Apple Developer Academy (2025.03 ~ 2025.12)</li>
     <li> IOS는 <b>SwiftUI</b>를 이용하여 개발 하고있습니다.</li>
   </ul>
   <br><br>
 </div>
-
-## 🛠️ 스킬
-###### language
-<p>
- <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-</p>
-
-###### framework
-<p>
-  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UIKIT-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-</p>
-
-###### infra
-<p>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
-</p>
-
-###### OS
-<p>
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=&logoColor=white">
-  <img alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-</p>
-
-###### etc
-<p>
- 
-</p>
 
 ## 🎯 포트폴리오!!
 <p>
