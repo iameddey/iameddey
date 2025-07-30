@@ -8,7 +8,7 @@
 <div>
   <ul>
     <li> 🏫 동의대학교 <b>응용소프트웨어공학과</b> (2019.02 ~ 2025.02)</li>
-    <li> 🍎 Apple Developer Academy (2025.03 ~ 2025.12)</li>
+    <li> 🍎 AppleDeveloperAcademy@POSTECH (2025.03 ~ 2025.12)</li>
     <li> IOS는 <b>SwiftUI</b>를 이용하여 개발 하고있습니다.</li>
   </ul>
   <br><br>
